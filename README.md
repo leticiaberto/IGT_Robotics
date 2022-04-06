@@ -1,29 +1,7 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Base code used to run the experiments published in: L. M. Berto, P. D. P. Costa, A. S. Simoes, R. R. Gudwin and E. L. Colombini, "An Iowa Gambling Task-based experiment applied to robots: A Study on Long-term Decision Making," 2021 IEEE International Conference on Development and Learning (ICDL), 2021, pp. 1-6, doi: 10.1109/ICDL49984.2021.9515632.
 
-### What is this repository for? ###
+To change the gamma parameter of RL algorithm, use the Qlearning.java file.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+After the paper we started develop some improvements, so part of the new codes are avaiable in files (more granular discretization of the environment, punishments at fixed schedules, etc, for example). 
